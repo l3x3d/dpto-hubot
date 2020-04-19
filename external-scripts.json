@@ -1,0 +1,16 @@
+[ 
+    "hubot-ascii-art",
+    "hubot-attendance-tracker",
+    "hubot-diagnostics",
+    "hubot-google-images",
+    "hubot-google-translate",
+    "hubot-help",
+    "hubot-heroku-keepalive",
+    "hubot-in-space",
+    "hubot-maps",
+    "hubot-pugme",
+    "hubot-redis-brain",
+    "hubot-rules",
+    "hubot-shipit",
+    "hubot-speed-test"
+]
